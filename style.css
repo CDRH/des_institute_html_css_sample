@@ -1,0 +1,16 @@
+.visible {
+
+
+}
+
+.invisible {
+  color: transparent;
+}
+
+.invisible:hover {
+  color: LimeGreen;
+}
+
+.sr-only {
+  display: none;
+}
